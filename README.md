@@ -1,15 +1,13 @@
 # Software Development Lifecycle
 
-**How do I interpret user needs and implement them into a program?
-How does creating “user stories” help with this?**
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
 
-User stories are a tool that is used by scrum teams to identify a use case that a user would desire in a program or product that is being focused on. A basic user story would simply identify who the user is, and describe what they would like to be able to do with the product and what purpose or value they would serve or provide to them. Developers and their team use these stories to bring those possibilities to life within the development lifestyle, by using coding practices that they have specifically selected to be the best or most efficient solution to the problem.
+Interpreting user needs can be done through discussions with the respective client, this is a skill that requires repetition, fine-tuning, and experience to master, it is a paramount driver for the success of a project. Extracting tangible actions that can be constructed into smaller components to build user stories is the key. User stories take in the scope of a project and dilute a feature down into a few key points - known as acceptance criteria - that give the development team bite-sized components to continue building the project and limit the scope away from the final product to reduce and refine later throughout iterations.
 
-**How do I approach developing programs?
-What agile processes do I hope to incorporate into my future development work?**
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
 
-I approach problems by first breaking them down into workable points that could be accomplished and then prioritizing them in a logical order that would allow me to develop each feature on top of the others in a way that is efficient, scalable, and valuable to the user. In the future, I will continue to incorporate an agile approach to projects that I work on, meaning that a problem should be looked at from all sides and focused on value to whoever may be using it. Prioritization, efficiency, scalability, and reliability are important things to keep in mind.
+My future approach is to continue understanding that all members of an agile team have an equally important and impactful position on the team that correlates with the deliverance of the final product for our clients. In light of this, I would incorporate several agile processes; namely, scrum ceremonies, daily stand-up meetings, weekly sprint meetings, and accompanying retrospectives as a conclusion.
 
 **What does it mean to be a good team member in software development?**
 
-A good team member in software development communicates their requirements, difficulties, and successes to other members of the team, and provides help with the overall vision of the project to other members as they encounter their own separate set of issues. Not only should a team member address problems, but keep all others involved in their process so that the project is understood by various teams, further making communication efficient to stakeholders, users, and anyone working directly or tangentially to the project.
+Simply, being a good team member in software development is being a team member that communicates frequently and honestly with all members of the team. Contribute value to all meetings by voicing concerns, praise, or any feedback that is applicable. This approach invariably produces transparency across the board, building trust and confidence in your teams, and ownership in your product.
